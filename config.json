@@ -13,7 +13,18 @@
       "WEBRip",
       "AMZN",
       "DSNP",
-      "(Crunchyroll)"
+      "(Crunchyroll)",
+      "bdrip",
+      "bd-rip",
+      "hdrip",
+       "hd-rip",
+      "dvdrip",
+       "dvd-rip",
+      "bluray.x264",
+      "hdtv.x264",
+      "hdtv.xvid",
+      "web.x264",
+      "web.h264"
     ]
   }
 }
