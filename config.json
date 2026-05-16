@@ -25,7 +25,8 @@
       "hdtv.xvid",
       "web.x264",
       "web.h264",
-      ".web."
+      ".web.",
+      ".VF2."
     ]
   }
 }
