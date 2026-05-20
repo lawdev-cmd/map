@@ -1,4 +1,5 @@
 {
+  "tmdbTurnOffGzip": true,
   "filters": {
     "RD": [
       "[rartv]",
