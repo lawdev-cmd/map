@@ -1,6 +1,6 @@
 {
   "emergencyMessage": "",
-  "tmdbTurnOffGzip": true,
+  "tmdbTurnOffGzip": false,
   "filters": {
     "RD": [
       "[rartv]",
