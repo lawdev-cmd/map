@@ -1,5 +1,5 @@
 {
-  "emergencyMessage": "",
+  "emergencyMessage": "There is an ongoing issue with TMDB api, this ccould cause issues with the app. TMDB is looking into the issue.",
   "tmdbTurnOffGzip": true,
   "filters": {
     "RD": [
