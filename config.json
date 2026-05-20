@@ -1,5 +1,5 @@
 {
-  "emergencyMessage": "TMDB API failure, the app mau not behave corectly",
+  "emergencyMessage": "",
   "tmdbTurnOffGzip": true,
   "filters": {
     "RD": [
