@@ -2,6 +2,16 @@
   "emergencyMessage": "",
   "tmdbTurnOffGzip": false,
   "filters": {
+    "ALL": [
+      "Ben[\\s.\\-_]+The[\\s.\\-_]+Men",
+      "Ultra[\\s.\\-_]*dox",
+      "le[\\s.\\-_]*production",
+      "rudub\\.tv",
+      "sky[\\s.\\-_]*sports",
+      "1[\\s.\\-_]*win[\\s.\\-_]*studio",
+      "f1[\\s.\\-_]*tv",
+      "sky[\\s.\\-_]*f1[\\s.\\-_]*hd"
+    ],
     "RD": [
       "[rartv]",
       "[rarbg]",
@@ -19,9 +29,9 @@
       "bdrip",
       "bd-rip",
       "hdrip",
-       "hd-rip",
+      "hd-rip",
       "dvdrip",
-       "dvd-rip",
+      "dvd-rip",
       "bluray.x264",
       "hdtv.x264",
       "hdtv.xvid",
