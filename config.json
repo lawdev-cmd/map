@@ -10,7 +10,8 @@
       "sky[\\s.\\-_]*sports",
       "1[\\s.\\-_]*win[\\s.\\-_]*studio",
       "f1[\\s.\\-_]*tv",
-      "sky[\\s.\\-_]*f1[\\s.\\-_]*hd"
+      "sky[\\s.\\-_]*f1[\\s.\\-_]*hd",
+      "ColdFilm"
     ],
     "RD": [
       "[rartv]",
