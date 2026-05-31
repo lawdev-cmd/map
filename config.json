@@ -11,7 +11,12 @@
       "1[\\s.\\-_]*win[\\s.\\-_]*studio",
       "f1[\\s.\\-_]*tv",
       "sky[\\s.\\-_]*f1[\\s.\\-_]*hd",
-      "ColdFilm"
+      "ColdFilm",
+      ".xxx.",
+      "_xxx_",
+      "-xxx-",
+      "[xxx]",
+      "tagalog"
     ],
     "RD": [
       "[rartv]",
