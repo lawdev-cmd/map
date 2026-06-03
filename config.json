@@ -1,5 +1,5 @@
 {
-  "emergencyMessage": "TorBox is having issues right now, so you may experience stream loading issues.",
+  "emergencyMessage": "Due to an ongoing issue with TorBox, streams may not load properly.",
   "tmdbTurnOffGzip": false,
   "filters": {
     "ALL": [
