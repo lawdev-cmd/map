@@ -12,7 +12,8 @@
       "f1[\\s.\\-_]*tv",
       "sky[\\s.\\-_]*f1[\\s.\\-_]*hd",
       "ColdFilm",
-      "tagalog"
+      "tagalog",
+      "DARKFLiX"
     ],
     "RD": [
       "[rartv]",
