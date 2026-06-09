@@ -1,5 +1,5 @@
 {
-  "emergencyMessage": "",
+  "emergencyMessage": "TorBox is down, so streams may not load correctly if you're using it.",
   "tmdbTurnOffGzip": false,
   "filters": {
     "ALL": [
