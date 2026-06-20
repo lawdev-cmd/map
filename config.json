@@ -1,5 +1,5 @@
 {
-  "emergencyMessage": "",
+  "emergencyMessage": "TMDB API is currently having issues. They have deployed a fix and things should be back to normal soon.",
   "tmdbTurnOffGzip": false,
   "filters": {
     "ALL": [
