@@ -1,11 +1,11 @@
 {
   "emergencyMessage": "",
   "emergencyDebridMessage":{
-    "torBox":"",
-    "premiumize":"",
-    "realDebrid":"",
-    "allDebrid":"",
-    "offCloud":""
+    "torBox": "",
+    "premiumize": "",
+    "realDebrid": "",
+    "allDebrid": "",
+    "offCloud": ""
   },
   "tmdbTurnOffGzip": false,
   "filters": {
