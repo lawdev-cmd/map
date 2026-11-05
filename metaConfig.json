@@ -9,6 +9,15 @@
     "1240": { "imdb": "tt0959858" },
     "334577": { "imdb": "tt45115545" },
     "259909": { "cinemeta": true },
-    "113988": { "imdb": "tt13207736", "cinemeta": true, "noStrictFilter": true }
+    "113988": {
+      "imdb": "tt13207736",
+      "cinemeta": true,
+      "titles": {
+        "1": ["Dahmer"],
+        "2": ["Menendez", "Monster 2022"],
+        "3": ["Ed Gein", "Monster 2022"],
+        "4": ["Lizzie Borden", "Monster 2022"]
+      }
+    }
   }
 }
